@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    color: black;
+    font-size: 30px;
+}
+
+a:hover{
+    opacity: 0.7;
+}
